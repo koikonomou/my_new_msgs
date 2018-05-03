@@ -4,3 +4,4 @@
   time first_stamp
   int32 overlap
   int32[] cluster_id
+  int32 num_scans
